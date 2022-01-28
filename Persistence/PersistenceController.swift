@@ -11,7 +11,7 @@ import CoreData
 import CloudKit
 import SwiftUI
 
-let gCloudKitContainerIdentifier = "iCloud.com.example.apple-samplecode.CoreDataCloudKitShare"
+let gCloudKitContainerIdentifier = "iCloud.com.example.ziqiao-samplecode.CoreDataCloudKitShare"
 
 /**
  This app doesn't necessarily post notifications from the main queue.
